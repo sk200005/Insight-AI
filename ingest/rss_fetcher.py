@@ -1,8 +1,9 @@
 import feedparser
 
 RSS_FEEDS = [
-    "https://feeds.bbci.co.uk/news/rss.xml",
-    "https://www.reuters.com/rssFeed/topNews"
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+    "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
 ]
 
 def get_links(limit=5):

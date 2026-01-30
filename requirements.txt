@@ -1,2 +1,5 @@
 feedparser
 newspaper3k
+
+
+./venv/bin/python main.py
