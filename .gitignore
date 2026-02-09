@@ -1,1 +1,19 @@
-.env
+# virtual env
+venv/
+.env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# data & models
+data/
+models/
+checkpoints/
+runs/
+
+# notebooks
+.ipynb_checkpoints/
+
+# huggingface cache
+.cache/
